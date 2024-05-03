@@ -1,4 +1,4 @@
-﻿using DesignPattern;
+﻿using AbstractFactoryShop;
 
 Customer customer = new Customer();
 Customer customerVIP = new Customer { Orders = new int[50] };

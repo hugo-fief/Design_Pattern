@@ -1,4 +1,4 @@
-﻿namespace DesignPattern
+﻿namespace AbstractFactoryShop
 {
     public class Customer
     {
